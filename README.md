@@ -1,5 +1,4 @@
 Project: TicTacToe
-
 By: Pranav Rao
 Date: 06/25/ 2019
 
